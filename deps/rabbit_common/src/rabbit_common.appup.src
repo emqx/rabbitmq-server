@@ -1,0 +1,5 @@
+%% -*- mode: erlang -*-
+{VSN,
+  [{<<".*">>,[{restart_application,rabbit_common}]}],
+  [{<<".*">>,[{restart_application,rabbit_common}]}]
+}.

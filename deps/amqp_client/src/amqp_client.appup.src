@@ -1,0 +1,5 @@
+%% -*- mode: erlang -*-
+{VSN,
+  [{<<".*">>,[{restart_application,amqp_client}]}],
+  [{<<".*">>,[{restart_application,amqp_client}]}]
+}.
